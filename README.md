@@ -1,4 +1,4 @@
-# P1 — Plataforma de Processamento de Vídeo
+# Plataforma de Processamento de Vídeo
 
 Upload de vídeo sob demanda: conversão para 360p/720p/1080p, extração de áudio
 para legendagem automática e marca d'água, com progresso em tempo real no
